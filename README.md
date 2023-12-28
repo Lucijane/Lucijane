@@ -4,7 +4,7 @@
 
 ![Lucijane Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucijane&hide_progress=true)
 
-### Tecnolofia que eu uso 
+### Tecnologias que uso 
 <div style="display: incline_block"><br>
     <img aling="center" alt="htmal15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img aling="center" alt="htmal15" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
